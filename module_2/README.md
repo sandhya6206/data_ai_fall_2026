@@ -110,7 +110,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 - [ ] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
 - [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Complete the hands-on activity
 
 ---
 
