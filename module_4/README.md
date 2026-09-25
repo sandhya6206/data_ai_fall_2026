@@ -72,7 +72,7 @@ _Estimated time to complete: 1.5 hours_
 
 _Estimated time to complete: 2 hours_
 
-- [ ] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
+- [x] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
 
 Additional resources: 
 
