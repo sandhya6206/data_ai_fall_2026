@@ -40,7 +40,7 @@ Want to try something new? Find a dataset, analyze it, and turn it into a story:
 
 > ⚠️ If you choose a new dataset, plan for extra time. You'll need to explore and analyze the data before you can find your story.
 
-- [ ] I've chosen my dashboard or dataset
+- [x] I've chosen my dashboard or dataset
 
 > 💡 Pick data you find interesting. It's much easier to tell a story you care about.
 
@@ -61,8 +61,8 @@ Write a **one-sentence big idea** that sums up your story.
 
 Then pick **3–5 key insights** from your dashboard that back up your big idea. Each insight becomes one slide or one page.
 
-- [ ] I've written my one-sentence big idea
-- [ ] I've chosen 3–5 insights that support it
+- [x] I've written my one-sentence big idea
+- [x] I've chosen 3–5 insights that support it
 
 ---
 
@@ -86,7 +86,7 @@ Build your story inside Looker Studio by adding new pages to your report.
 - Put **one main visualization** on each page, along with a text box explaining it
 - Use the page names and navigation so viewers can move through the story in order
 
-- [ ] I've chosen Option A (slide deck) or Option B (Looker pages)
+- [x] I've chosen Option A (slide deck) or Option B (Looker pages)
 
 ---
 
@@ -118,13 +118,13 @@ Use what you learned from **Remove to Improve** and **Storytelling with Data Mak
 
 Check your story against this list:
 
-- [ ] My story has a clear title and opening hook
-- [ ] I explain the context and cite my data source
-- [ ] I include 3–5 insights, with one main chart per slide/page
-- [ ] Every chart title states the takeaway, not just the topic
-- [ ] I've removed clutter and highlighted the key data
-- [ ] My story ends with a clear conclusion or call to action
-- [ ] Someone who has never seen my dashboard could follow my story
+- [x] My story has a clear title and opening hook
+- [x] I explain the context and cite my data source
+- [x] I include 3–5 insights, with one main chart per slide/page
+- [x] Every chart title states the takeaway, not just the topic
+- [x] I've removed clutter and highlighted the key data
+- [x] My story ends with a clear conclusion or call to action
+- [x] Someone who has never seen my dashboard could follow my story
 
 ---
 
