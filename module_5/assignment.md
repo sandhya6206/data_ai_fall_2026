@@ -130,9 +130,9 @@ Check your story against this list:
 
 ## Step 6: Submit
 
-- [ ] Make sure your link is shareable ("Anyone with the link can view")
-- [ ] Drop your link into [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/77) thread with a 1–2 sentence summary of your big idea
-- [ ] Optional: share a **before** screenshot of your original dashboard next to your new data story
+- [x] Make sure your link is shareable ("Anyone with the link can view")
+- [x] Drop your link into [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/77) thread with a 1–2 sentence summary of your big idea
+- [x] Optional: share a **before** screenshot of your original dashboard next to your new data story
 
 ---
 

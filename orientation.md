@@ -44,4 +44,3 @@ This course is eligible for a micro-credential through Weber State University.
 <img width="1416" alt="Screenshot 2025-01-24 at 3 18 28 PM" src="https://github.com/user-attachments/assets/0f92a4d4-d5b0-4907-9497-c438ba93abf4" />
 
 - [ ] Review [How to Zoom](https://docs.google.com/presentation/d/1GxvXTSgctycP5cye240dfOjZ_bhKe_cXaAAuBw4A7vs/edit?usp=sharing) slidedeck 
-

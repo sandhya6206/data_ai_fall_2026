@@ -9,6 +9,18 @@ The capstone project for our data analytics course offers a practical, hands-on 
   - [ ] **Project Introduction:**  
    Each student will identify and reach out to a local business or non-profit organization to offer their data analysis services. This will involve an interview with the client to understand the data needs of the organization and decide on a project that could help them make data-driven decisions. This will be introduced during a class session where students can discuss their potential projects and approach.
 
+Types of projects: 
+
+* Non-Profit: Demographic Data, Donor Dashboard, Events Analysis, Web Analytics - Google Analytics 
+
+* Sales Analysis - CRM - Customer Relationship Management 
+
+* Marketing Analysis - ROI - Return on Investment for Ad Spend 
+
+* Survey Analysis
+
+* Financial Analysis - Bookkeeping 
+
   - [ ]  **Project Execution:**  
    Once the business or non-profit agrees, students will collect the relevant data and begin their analysis. This phase should take approximately two weeks, during which students will apply the skills learned in the course, including data cleaning, analysis, and visualization.
 
