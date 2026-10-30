@@ -66,7 +66,7 @@ By the end of this course, students will be proficient in using Excel and Google
 | Week 9 | 10/18 | **Real World Analysis Kick Off** — Start your capstone: choose a real business or non-profit to analyze. | Wed 10/21 virtual / Sat 10/24 **In Person** | Choose a business or non-profit for your dashboard/analytic report |
 | Week 10 | 10/25 | **Real World Analysis Project** — Dive into your data, build your analysis, and start shaping your deliverable. | Virtual (Wed 10/28 / Sat 10/31) | Work on your final project and prepare your presentation |
 | Week 11 | 11/1 | **Real World Analysis Project** — Refine your dashboard/report and prepare to present your findings. | Virtual (Wed 11/4 / Sat 11/7) | Work on your final project and prepare your presentation |
-| Week 12 | 11/8 | **Final Project Presentation & Graduation 🎉** — Present your capstone project and celebrate completing the course! | Wed 11/11 virtual / Sat 11/14 **Graduation, In Person** | Finish your final project and present at graduation! |
+| Week 12 | 11/8 | **Final Project Presentation & Graduation 🎉** — Present your capstone project and celebrate completing the course! | Wed 11/11 virtual / Sat 11/14 **Graduation, In Person @ MarketStar in SLC** | Finish your final project and present at graduation! |
 
 ---
 
