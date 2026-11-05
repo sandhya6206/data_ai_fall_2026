@@ -81,7 +81,8 @@ Best regards,
 ### Week 4 
 
 - [ ] Refine Dashboard / Report / Presentation 
-- [ ] Prepare for Graduation 
+- [ ] Prepare for Graduation
+* 5 minutes MAX 
 * Show us what you have built (dashboard/analysis etc) --how you built it, why you made the choices you did, etc.
 * Tell us about the biggest challenges you faced during the program and how you got through them.
 * Share your key takeaways--what did you learn that will have the biggest impact on you?
