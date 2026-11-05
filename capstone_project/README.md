@@ -80,7 +80,8 @@ Best regards,
 
 ### Week 4 
 
-- [ ] Refine Dashboard / Report / Presentation 
+- [ ] Refine Dashboard / Report / Presentation
+  * Preference for Data Storytelling see Module for more info
 - [ ] Prepare for Graduation
 * 5 minutes MAX 
 * Show us what you have built (dashboard/analysis etc) --how you built it, why you made the choices you did, etc.
